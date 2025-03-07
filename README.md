@@ -5,7 +5,7 @@
       alt="Version" />   |    <img src="https://img.shields.io/badge/Enggar-Sulistyo-blue.svg" alt="enggar">
 </h1>
 
-&nbsp; &nbsp; Device booster collection
+Device booster collection
 <br>
 - Zipalign
 - Fstrim
@@ -14,6 +14,6 @@
 - io stat
 <br>
 <br>
-&nbsp; &nbsp; How to work
+How to work
 <br>
 open magisk manager and tab modules click run action
