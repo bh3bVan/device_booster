@@ -1,0 +1,7 @@
+id=device_booster 
+name=Device Booster
+version=1.0.0.7
+versionCode=1
+author=Enggar Sulistyo
+description=Collection of device booster.
+updateJson=https://raw.githubusercontent.com/bh3bVan/device_booster/main/update.json
