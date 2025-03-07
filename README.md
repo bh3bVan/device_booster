@@ -16,5 +16,4 @@
 <br>
 &nbsp; &nbsp; How to work
 <br>
-- open magisk tab module
-- click action on device booster module
+open magisk manager and tab modules click run action
